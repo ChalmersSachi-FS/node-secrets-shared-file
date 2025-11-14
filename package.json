@@ -1,0 +1,12 @@
+{
+    "name": "node-secrets-shared-file",
+    "version": "1.0.0",
+    "description": "Shared-secret Node app example",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs"
+}
